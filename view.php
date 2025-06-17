@@ -14,13 +14,13 @@
 
         // データベース接続情報
 
-        $host = 'mysql321.phy.lolipop.lan';
+        $host = '	mysql305.phy.lolipop.lan';
 
-        $dbname = 'LAA1554899-shortbbs';
+        $dbname = '	LAA1553916-php2024';
 
-        $user = 'LAA1554899';
+        $user = 'LAA1553916';
 
-        $pass = 'teamproject';
+        $pass = 'Pass0812';
 
         $charset = 'utf8mb4';
  
